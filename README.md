@@ -1,3 +1,6 @@
+## NAME:KAVIYA SNEKA M
+## REGISTER NUMBER:212223040091
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
